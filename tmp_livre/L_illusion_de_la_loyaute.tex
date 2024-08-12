@@ -1,0 +1,273 @@
+% \documentclass[a4paper,10pt]{article}
+\documentclass[10pt]{book}
+\usepackage{geometry}
+\geometry{reset}
+
+\usepackage[T1]{fontenc}
+\usepackage[frenchb]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[dvips,final]{graphicx}
+\usepackage{lmodern,array,oldgerm,multirow,amsmath,wrapfig,multicol,exscale,color,colortbl}
+\usepackage{vmargin,fancybox,fancyhdr,lastpage}
+\usepackage{rotating}
+\usepackage{lscape}
+% Permet de tourner une page en particulier avec la commande \begin{landscape} … \end{landscape}
+\usepackage{arydshln,amssymb}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{tikz}
+\usepackage{longtable}
+\usepackage{pdflscape}
+\usepackage{ifoddpage}
+\pagestyle{empty}
+% Configuration des en-têtes pour le \mainmatter
+\fancypagestyle{mainmatterstyle}{
+  \fancyhf{}
+  \fancyhead[LE]{\slshape Julien Freyermuth \hfill \thepage} % Nom de l'auteur à gauche et numéro de page à droite sur les pages paires
+  \fancyhead[RO]{\thepage \hfill \slshape L'Illusion de la Loyauté} % Numéro de page à gauche et titre du livre à droite sur les pages impaires
+  \renewcommand{\headrulewidth}{0.4pt} % Ligne sous l'en-tête
+}
+
+% Style pour les 3 dernières pages
+\fancypagestyle{endmatterstyle}{
+  \fancyhf{} % Supprime les en-têtes et pieds de page
+  \renewcommand{\headrulewidth}{0pt} % Supprime la ligne sous l'en-tête
+}
+
+\newcommand{\checkoddpageandaddblank}{
+  \clearpage
+  \ifoddpage
+    % Si la page est impaire, ne rien faire
+  \else
+    % Si la page est paire, ajouter une page blanche
+    \null
+    \clearpage
+  \fi
+}
+
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\geometry{reset}
+\geometry{
+    paperwidth=12cm,
+    paperheight=19cm,
+    inner=1.5cm,
+    outer=1cm,
+    top=1.5cm,
+    bottom=2cm
+}
+
+\setlength\parindent{0pt}
+
+\begin{document}
+
+\frontmatter
+
+% Page de garde
+\begin{titlepage}
+    \vspace*{\stretch{1}}
+    \begin{center}
+        \textbf{\huge L'illusion de la loyauté}\\[0.5cm]
+        \textbf{\large Un livre dont vous êtes le héros}\\[2cm]
+        % \textbf{\large Julien Freyermuth}
+    \end{center}
+    \vspace*{\stretch{2}}
+\end{titlepage}
+
+\begin{center}
+    \textbf{\Large{Règles du jeu}}\\
+\end{center}
+Vous trouverez au début de ce livre une \textit{Feuille d'Aventure} sur laquelle vous inscrirez
+tous les détails de votre quête. Il est conseillé d'en faire des photocopies qui vous permettront de
+jouer plusieurs fois.\\
+
+Au cours de votre jeunesse vous avez acquis une HABILETÉ au combat ainsi qu'une ENDURANCE.
+Avant d'entamer votre quête, il vous faudra mesurer exactement les dons que vous ont fait la
+nature. À cet effet, vous devrez placer devant vous la \textit{Table de Hasard} qui se trouve
+à la fin du livre, fermer les yeux et pointer l'extrémité non taillée d'un crayon sur l'un
+des chiffres de la \textit{Table} en laissant faire le hasard. Si vous désignez le chiffre
+0, vous n'obtenez aucun point.\\
+
+Le premier chiffre que votre crayon aura montré sur la \textit{Table de
+Hasard} représentera votre HABILETÉ au combat. Ajoutez 10 à ce
+chiffre et inscrivez le total obtenu dans la case HABILETÉ de votre
+\textit{Feuille d'Aventure} (si par exemple votre crayon indique le chiffre
+4 sur la \textit{Table de Hasard}, vos points d'HABILETÉ seront de 14).
+Lorsque vous aurez à combattre, il faudra mesurer votre
+HABILETÉ à celle de votre adversaire. Il est donc souhaitable que
+votre total d'HABILETÉ soit le plus élevé possible.\\
+
+
+\mainmatter
+\pagestyle{mainmatterstyle}
+
+test
+
+\newpage
+
+test2
+
+\newpage
+
+\pagestyle{endmatterstyle}
+\begin{center}
+    \textbf{Table de hasard}
+\end{center}
+
+\clearpage
+
+\checkoddpageandaddblank
+
+\begin{flushright}
+    \textbf{\Large Table des}\\
+\end{flushright}
+
+Quotient d'attaque\\
+
+\begin{minipage}[t]{\textwidth}
+    \scalebox{0.92}{\renewcommand\arraystretch{1.6}\begin{tabular}{c|c|c c|c c|c c|c c|c c|c c|}
+        \cline{3-14}
+        \multicolumn{2}{c|}{}& \multicolumn{2}{c|}{$\leq$ -11}&
+            \multicolumn{2}{c|}{-10/-9}&
+            \multicolumn{2}{c|}{-8/-7}&
+            \multicolumn{2}{c|}{-6/-5}&
+            \multicolumn{2}{c|}{-4/-3}&
+            \multicolumn{2}{c|}{-2/-1}\\
+        \cline{2-14}
+
+        \multirow{20}{*}{\rotatebox{90}{Chiffre donné par la table de hasard}}& \multirow{2}{*}{1}& E& -0& E& -0& E& -0& E& -0& E& -1& E& -2\\
+        \cline{3-14}
+        & & V& \ T& V& \ T& V&  -8& V&  -6& V&  -6& V&  -5\\
+        \cline{2-14}
+        
+        & & E&  -0& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3\\
+        \cline{3-14}
+        & \multirow{-2}{*}{2}& V& T& V&  -8& V&  -7& V&  -6& V&  -5& V&  -5\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{3}& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3& E&  -4\\
+        \cline{3-14}
+        & & V&  -8& V&  -7& V&  -6& V&  -5& V&  -5& V&  -4\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{4}& E&  -0& E&  -1& E&  -2& E&  -3& E&  -4& E&  -5\\
+        \cline{3-14}
+        & & V&  -8& V&  -7& V&  -6& V&  -5& V&  -4& V&  -4\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{5}& E&  -1& E&  -2& E&  -3& E&  -4& E&  -5& E&  -6\\
+        \cline{3-14}
+        & & V&  -7& V&  -6& V&  -5& V&  -4& V&  -4& V&  -3\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{6}& E&  -2& E&  -3& E&  -4& E&  -5& E&  -6& E&  -7\\
+        \cline{3-14}
+        & & V&  -6& V&  -6& V&  -5& V&  -4& V&  -3& V&  -2\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{7}& E&  -3& E&  -4& E&  -5& E&  -6& E&  -7& E&  -8\\
+        \cline{3-14}
+        & & V&  -5& V&  -5& V&  -4& V&  -3& V&  -2& V&  -2\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{8}& E&  -4& E&  -5& E&  -6& E&  -7& E&  -8& E&  -9\\
+        \cline{3-14}
+        & & V&  -4& V&  -4& V&  -3& V&  -2& V&  -1& V&  -1\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{9}& E&  -5& E&  -6& E&  -7& E&  -8& E&  -9& E& -10\\
+        \cline{3-14}
+        & & V&  -3& V&  -3& V&  -2& V& 0& V& 0& V& 0\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{0}& E&  -6& E&  -7& E&  -8& E&  -9& E& -10& E& -11\\
+        \cline{3-14}
+        & & V& 0& V& 0& V& 0& V& 0& V& 0& V& 0\\
+        \cline{2-14}
+    \end{tabular}}
+\end{minipage}
+
+\begin{center}
+    E = Ennemi \quad\quad V = Vous
+\end{center}
+
+\newpage
+
+\begin{flushleft}
+    \textbf{\Large coups portée}\\
+\end{flushleft}
+
+\textcolor{white}{Quotient d'attaque}\\
+
+\begin{minipage}[t]{\textwidth}
+    \scalebox{0.92}{\renewcommand\arraystretch{1.6}\begin{tabular}{c|c|c c|c c|c c|c c|c c|c c|}
+        \cline{3-14}
+        \multicolumn{2}{c|}{}& \multicolumn{2}{c|}{$\leq$ -11}&
+            \multicolumn{2}{c|}{-10/-9}&
+            \multicolumn{2}{c|}{-8/-7}&
+            \multicolumn{2}{c|}{-6/-5}&
+            \multicolumn{2}{c|}{-4/-3}&
+            \multicolumn{2}{c|}{-2/-1}\\
+        \cline{2-14}
+
+        \multirow{20}{*}{\rotatebox{90}{Chiffre donné par la table de hasard}}& \multirow{2}{*}{1}& E& -0& E& -0& E& -0& E& -0& E& -1& E& -2\\
+        \cline{3-14}
+        & & V& \ T& V& \ T& V&  -8& V&  -6& V&  -6& V&  -5\\
+        \cline{2-14}
+        
+        & & E&  -0& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3\\
+        \cline{3-14}
+        & \multirow{-2}{*}{2}& V& T& V&  -8& V&  -7& V&  -6& V&  -5& V&  -5\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{3}& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3& E&  -4\\
+        \cline{3-14}
+        & & V&  -8& V&  -7& V&  -6& V&  -5& V&  -5& V&  -4\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{4}& E&  -0& E&  -1& E&  -2& E&  -3& E&  -4& E&  -5\\
+        \cline{3-14}
+        & & V&  -8& V&  -7& V&  -6& V&  -5& V&  -4& V&  -4\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{5}& E&  -1& E&  -2& E&  -3& E&  -4& E&  -5& E&  -6\\
+        \cline{3-14}
+        & & V&  -7& V&  -6& V&  -5& V&  -4& V&  -4& V&  -3\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{6}& E&  -2& E&  -3& E&  -4& E&  -5& E&  -6& E&  -7\\
+        \cline{3-14}
+        & & V&  -6& V&  -6& V&  -5& V&  -4& V&  -3& V&  -2\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{7}& E&  -3& E&  -4& E&  -5& E&  -6& E&  -7& E&  -8\\
+        \cline{3-14}
+        & & V&  -5& V&  -5& V&  -4& V&  -3& V&  -2& V&  -2\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{8}& E&  -4& E&  -5& E&  -6& E&  -7& E&  -8& E&  -9\\
+        \cline{3-14}
+        & & V&  -4& V&  -4& V&  -3& V&  -2& V&  -1& V&  -1\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{9}& E&  -5& E&  -6& E&  -7& E&  -8& E&  -9& E& -10\\
+        \cline{3-14}
+        & & V&  -3& V&  -3& V&  -2& V& 0& V& 0& V& 0\\
+        \cline{2-14}
+
+        & \multirow{2}{*}{0}& E&  -6& E&  -7& E&  -8& E&  -9& E& -10& E& -11\\
+        \cline{3-14}
+        & & V& 0& V& 0& V& 0& V& 0& V& 0& V& 0\\
+        \cline{2-14}
+    \end{tabular}}
+\end{minipage}
+
+\begin{center}
+    E = Ennemi \quad\quad V = Vous
+\end{center}
+
+\newpage
+
+
+\end{document}

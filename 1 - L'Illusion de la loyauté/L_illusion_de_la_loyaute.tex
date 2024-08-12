@@ -1,0 +1,94 @@
+% \documentclass[a4paper,10pt]{article}
+\documentclass[12pt]{book}
+\pdfpagewidth=12cm
+\pdfpageheight=19cm
+
+\usepackage{geometry}
+\geometry{reset}
+
+
+\usepackage[T1]{fontenc}
+\usepackage[frenchb]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[dvips,final]{graphicx}
+\usepackage{lmodern,array,oldgerm,multirow,amsmath,wrapfig,multicol,exscale,color,colortbl}
+\usepackage{vmargin,fancybox,fancyhdr,lastpage}
+\usepackage{rotating}
+\usepackage{lscape}
+% Permet de tourner une page en particulier avec la commande \begin{landscape} … \end{landscape}
+\usepackage{arydshln,amssymb}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{tikz}
+%\setmarginsrb{2cm}{1.2cm}{2cm}{2cm}{0.4cm}{0.5cm}{0cm}{0cm}
+% \setmarginsrb{1}{2}{3}{4}{5}{6}{7}{8}
+% 1 est la marge gauche
+% 2 est la marge en haut
+% 3 est la marge droite
+% 4 est la marge en bas
+% 5 fixe la hauteur de l'entête
+% 6 fixe la distance entre l'entête et le texte
+% 7 fixe la hauteur du pied de page
+% 8 fixe la distance entre le texte et le pied de page
+%\setmarginsrb{2cm}{1.2cm}{2cm}{1.2cm}{0.4cm}{0.5cm}{0cm}{0cm}
+\pagestyle{empty}
+% Configuration des en-têtes pour le \mainmatter
+\fancypagestyle{mainmatterstyle}{
+  \fancyhf{}
+  \fancyhead[LE]{\slshape Julien Freyermuth \hfill \thepage} % Nom de l'auteur à gauche et numéro de page à droite sur les pages paires
+  \fancyhead[RO]{\thepage \hfill \slshape L'Illusion de la Loyauté} % Numéro de page à gauche et titre du livre à droite sur les pages impaires
+  \renewcommand{\headrulewidth}{0.4pt} % Ligne sous l'en-tête
+}
+
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+\setlength\parindent{0pt}
+
+\begin{document}
+
+\frontmatter
+
+% Page de garde
+\begin{titlepage}
+    \vspace*{\stretch{1}}
+    \begin{center}
+        \textbf{\Huge L'Illusion de la Loyauté}\\[0.5cm]
+        \textbf{\Large Un livre dont vous êtes le héros}\\[2cm]
+        \textbf{\Large Julien Freyermuth}
+    \end{center}
+    \vspace*{\stretch{2}}
+\end{titlepage}
+
+\begin{center}
+    \textbf{\Large{Règles du jeu}}\\
+\end{center}
+Vous trouverez au début de ce livre une \textit{Feuille d'Aventure} sur laquelle vous inscrirez
+tous les détails de votre quête. Il est conseillé d'en faire des photocopies qui vous permettront de
+jouer plusieurs fois.\\
+
+Au cours de votre jeunesse vous avez acquis une HABILETÉ au combat ainsi qu'une ENDURANCE.
+Avant d'entamer votre quête, il vous faudra mesurer exactement les dons que vous ont fait la
+nature. À cet effet, vous devrez placer devant vous la \textit{Table de Hasard} qui se trouve
+à la fin du livre, fermer les yeux et pointer l'extrémité non taillée d'un crayon sur l'un
+des chiffres de la \textit{Table} en laissant faire le hasard. Si vous désignez le chiffre
+0, vous n'obtenez aucun point.\\
+
+Le premier chiffre que votre crayon aura montré sur la \textit{Table de
+Hasard} représentera votre HABILETÉ au combat. Ajoutez 10 à ce
+chiffre et inscrivez le total obtenu dans la case HABILETÉ de votre
+\textit{Feuille d'Aventure} (si par exemple votre crayon indique le chiffre
+4 sur la \textit{Table de Hasard}, vos points d'HABILETÉ seront de 14).
+Lorsque vous aurez à combattre, il faudra mesurer votre
+HABILETÉ à celle de votre adversaire. Il est donc souhaitable que
+votre total d'HABILETÉ soit le plus élevé possible.\\
+
+
+
+\mainmatter
+\pagestyle{mainmatterstyle}
+
+
+
+\end{document}
