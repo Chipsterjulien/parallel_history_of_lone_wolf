@@ -126,7 +126,8 @@ test2
 Quotient d'attaque\\
 
 \begin{minipage}[t]{\textwidth}
-    \scalebox{0.92}{\renewcommand\arraystretch{1.6}\begin{tabular}{c|c|c c|c c|c c|c c|c c|c c|}
+  \begin{flushright}
+    \scalebox{0.8}{\renewcommand\arraystretch{1.6}\begin{tabular}{c|c|c c|c c|c c|c c|c c|c c|}
         \cline{3-14}
         \multicolumn{2}{c|}{}& \multicolumn{2}{c|}{$\leq$ -11}&
             \multicolumn{2}{c|}{-10/-9}&
@@ -138,7 +139,7 @@ Quotient d'attaque\\
 
         \multirow{20}{*}{\rotatebox{90}{Chiffre donné par la table de hasard}}& \multirow{2}{*}{1}& E& -0& E& -0& E& -0& E& -0& E& -1& E& -2\\
         \cline{3-14}
-        & & V& \ T& V& \ T& V&  -8& V&  -6& V&  -6& V&  -5\\
+        & & V& T& V& T& V&  -8& V&  -6& V&  -6& V&  -5\\
         \cline{2-14}
         
         & & E&  -0& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3\\
@@ -186,6 +187,7 @@ Quotient d'attaque\\
         & & V& 0& V& 0& V& 0& V& 0& V& 0& V& 0\\
         \cline{2-14}
     \end{tabular}}
+  \end{flushright}
 \end{minipage}
 
 \begin{center}
@@ -201,73 +203,72 @@ Quotient d'attaque\\
 \textcolor{white}{Quotient d'attaque}\\
 
 \begin{minipage}[t]{\textwidth}
-    \scalebox{0.92}{\renewcommand\arraystretch{1.6}\begin{tabular}{c|c|c c|c c|c c|c c|c c|c c|}
-        \cline{3-14}
-        \multicolumn{2}{c|}{}& \multicolumn{2}{c|}{$\leq$ -11}&
-            \multicolumn{2}{c|}{-10/-9}&
-            \multicolumn{2}{c|}{-8/-7}&
-            \multicolumn{2}{c|}{-6/-5}&
-            \multicolumn{2}{c|}{-4/-3}&
-            \multicolumn{2}{c|}{-2/-1}\\
-        \cline{2-14}
+    \scalebox{0.8}{\renewcommand\arraystretch{1.6}\begin{tabular}{|c c|c c|c c|c c|c c|c c|c c|c|}
+        \cline{1-14}
+        \multicolumn{2}{|c|}{0/0}&
+            \multicolumn{2}{c|}{+1/+2}&
+            \multicolumn{2}{c|}{+3/+4}&
+            \multicolumn{2}{c|}{+5/+6}&
+            \multicolumn{2}{c|}{+7/+8}&
+            \multicolumn{2}{c|}{+9/+10}&
+            \multicolumn{2}{c|}{$\geq$+11}\\
+        \hline
 
-        \multirow{20}{*}{\rotatebox{90}{Chiffre donné par la table de hasard}}& \multirow{2}{*}{1}& E& -0& E& -0& E& -0& E& -0& E& -1& E& -2\\
-        \cline{3-14}
-        & & V& \ T& V& \ T& V&  -8& V&  -6& V&  -6& V&  -5\\
-        \cline{2-14}
+        E& -3& E& -4& E& -5& E& -6& E& -7& E& -8& E& -9& \multirow{2}{*}{1}\\
+        \cline{1-14}
+        V& -5& V& -5& V& -4& V& -4& V& -4& V& -3& V& -3& \\
+        \hline
         
-        & & E&  -0& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3\\
-        \cline{3-14}
-        & \multirow{-2}{*}{2}& V& T& V&  -8& V&  -7& V&  -6& V&  -5& V&  -5\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{3}& E&  -0& E&  -0& E&  -1& E&  -2& E&  -3& E&  -4\\
-        \cline{3-14}
-        & & V&  -8& V&  -7& V&  -6& V&  -5& V&  -5& V&  -4\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{4}& E&  -0& E&  -1& E&  -2& E&  -3& E&  -4& E&  -5\\
-        \cline{3-14}
-        & & V&  -8& V&  -7& V&  -6& V&  -5& V&  -4& V&  -4\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{5}& E&  -1& E&  -2& E&  -3& E&  -4& E&  -5& E&  -6\\
-        \cline{3-14}
-        & & V&  -7& V&  -6& V&  -5& V&  -4& V&  -4& V&  -3\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{6}& E&  -2& E&  -3& E&  -4& E&  -5& E&  -6& E&  -7\\
-        \cline{3-14}
-        & & V&  -6& V&  -6& V&  -5& V&  -4& V&  -3& V&  -2\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{7}& E&  -3& E&  -4& E&  -5& E&  -6& E&  -7& E&  -8\\
-        \cline{3-14}
-        & & V&  -5& V&  -5& V&  -4& V&  -3& V&  -2& V&  -2\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{8}& E&  -4& E&  -5& E&  -6& E&  -7& E&  -8& E&  -9\\
-        \cline{3-14}
-        & & V&  -4& V&  -4& V&  -3& V&  -2& V&  -1& V&  -1\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{9}& E&  -5& E&  -6& E&  -7& E&  -8& E&  -9& E& -10\\
-        \cline{3-14}
-        & & V&  -3& V&  -3& V&  -2& V& 0& V& 0& V& 0\\
-        \cline{2-14}
-
-        & \multirow{2}{*}{0}& E&  -6& E&  -7& E&  -8& E&  -9& E& -10& E& -11\\
-        \cline{3-14}
-        & & V& 0& V& 0& V& 0& V& 0& V& 0& V& 0\\
-        \cline{2-14}
+        E& -4& E& -5& E& -6& E& -7& E& -8& E& -9& E& -10& \multirow{2}{*}{2}\\
+        \cline{1-14}
+        V& -4& V& -4& V& -3& V& -3& V& -3& V& -3& V& -2& \\
+        \hline
+        
+        E& -5& E& -6& E& -7& E& -8& E& -9& E& -10& E& -11& \multirow{2}{*}{3}\\
+        \cline{1-14}
+        V& -4& V& -3& V& -3& V& -3& V& -2& V& -2& V& -2& \\
+        \hline
+        
+        E& -6& E& -7& E& -8& E& -9& E& -10& E& -11& E& -12& \multirow{2}{*}{4}\\
+        \cline{1-14}
+        V& -3& V& -3& V& -2& V& -2& V& -2& V& -2& V& -2& \\
+        \hline
+        
+        E& -7& E& -8& E& -9& E& -10& E& -11& E& -12& E& -14& \multirow{2}{*}{5}\\
+        \cline{1-14}
+        V& -2& V& -2& V& -2& V& -2& V& -2& V& -2& V& -1& \\
+        \hline
+        
+        E& -8& E& -9& E& -10& E& -11& E& -12& E& -14& E& -16& \multirow{2}{*}{6}\\
+        \cline{1-14}
+        V& -2& V& -2& V& -2& V& -1& V& -1& V& -1& V& -1& \\
+        \hline
+        
+        E& -9& E& -10& E& -11& E& -12& E& -14& E& -16& E& -18& \multirow{2}{*}{7}\\
+        \cline{1-14}
+        V& -1& V& -1& V& -1& V& -0& V& -0& V& -0& V& -0& \\
+        \hline
+        
+        E& -10& E& -11& E& -12& E& -14& E& -16& E& -18& E& T& \multirow{2}{*}{8}\\
+        \cline{1-14}
+        V& -0& V& -0& V& -0& V& -0& V& -0& V& -0& V& -0& \\
+        \hline
+        
+        E& -11& E& -12& E& -14& E& -16& E& -18& E& T& E& T& \multirow{2}{*}{9}\\
+        \cline{1-14}
+        V& -0& V& -0& V& -0& V& -0& V& -0& V& -0& V& -0& \\
+        \hline
+        
+        E& -12& E& -14& E& -16& E& -18& E& T& E& T& E& T& \multirow{2}{*}{0}\\
+        \cline{1-14}
+        V& -0& V& -0& V& -0& V& -0& V& -0& V& -0& V& -0& \\
+        \hline
     \end{tabular}}
 \end{minipage}
 
 \begin{center}
-    E = Ennemi \quad\quad V = Vous
+    T = Tué sur le coup
 \end{center}
-
-\newpage
 
 
 \end{document}
