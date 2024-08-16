@@ -19,35 +19,126 @@ Utiliser le jeu wesnoth pour créer une carte de ce que je désire
 
 ## Contexte
 
-Vous êtes Maya, une attachée militaire à la cours du roi sarnac de lencia dans la ville de Vadera. Vous êtes respectées pour vos talents tactiques et stratégiques d'autant plus qu'en plus d'être extrèmement jeune, vous êtes une femme ce qui force le respect.
-Il y a 2 ans, vous aviez eu quelques difficultés à vous imposer à cause, justement, du fait que vous êtes une jeune femme mais ayant dû remplacer votre prédécesseur au pied levé suite à sa mort prématurée, vous avez su démontrer tout votre talent pour m'intenir les frontières de la Lencia malgré les attaques incéssantes des Drakkarims. Pourtant vous étiez très critiquées face à votre, soit disant, manque d'expérience mais votre talent a tôt fait de faire taire les personnes les plus septiques et les plus virulentes à votre encontre.
+[1]
+Vous êtes Maya, une jeune et brillante attachée militaire à la cour du roi Sarnac de Lencia, dans la cité fortifiée de Vadera. Réputée pour vos talents tactiques et stratégiques, vous avez su imposer le respect, malgré les préjugés liés à votre jeunesse et à votre condition de femme dans un milieu dominé par les hommes. Lorsqu’il y a deux ans, vous avez été propulsée au rang de conseillère militaire en remplacement de votre prédécesseur mort soudainement, les murmures de la cour étaient nombreux. Mais vos succès répétés face aux Drakkarim ont rapidement fait taire ces voix critiques.
 
-Mais, … vous avez une autre vie, secrète celle-ci, bien moins enviable et avouable. Pour des raisons qui vont sont propres, vous êtes en mission d'infiltration pour le compte du seigneur des ténèbres Gnaag de Mozgôar. Vous avez la lourde tache de l'informer de tous les faits et gestes des troupes du roi Sarnac et si possible de ses alliers dont le lointain sommerlund. Même s'il reste des postes à gravir, vous êtes tellement proche du roi que ce dernier n'hésite pas à vous confier jusqu'à sa propre vie. Le fait que vous soyez une femme n’y est pas étranger et cela vous permet aussi de connaitre les potins et ragôts qui vous sont utiles pour monter les petits vassaux les uns contre les autres en temps utiles. Par le passé, ceci a permis d'évincer 3 dignitaires gênants. Suite à leurs disputes vous avez pu informer les troupes adverses, les drakkarims, et ils ont pu conquérir de nombreux territoires sans qu'on vous soupçonne à aucun moment. Afin d'assoir d'avantage votre emprise sur le roi Sarnac, ses conseillers et la cours, vous avez élaboré plusieurs plans pour reconquérir plusieurs territoires perdus. Personne n'étant au courant de votre double jeu, vous connaissez la majeur partie des positions de chacun ainsi que de leurs renfort potentiel. Vos actions ont donc été des plus percutantes. Bien évidemment, vous aviez eu laval de votre maitre, Gnaag, avant de passer à l'action afin qu'il puisse limiter les pertes et déployer ses armées sur d'autres fronts.
+Pourtant, votre ascension n’a pas été sans difficultés. Certains nobles ont vu d’un mauvais œil votre arrivée, jugeant votre manque d’expérience plus dangereux qu’un atout. Vous avez dû prouver votre valeur à maintes reprises, démontrant une perspicacité hors du commun qui vous a finalement valu la confiance du roi Sarnac lui-même. Cependant, cette confiance, aussi précieuse soit-elle, n’est que la façade d’une réalité bien plus sombre.
 
-Cependant, suite à la mort du zakhan kimah, les nouvelles venants de gnaag se sont faites de plus en plus rare. Vous aviez continué malgré tout à jouer votre rôle au sein de la cours tout en priant en votre fort intérieur que ce mode de fonctionnement ne soit que temporaire. En effet, vous aviez été bien consciente que la déroute de ses armées soit difficile à gérer ainsi que sa réorganisation. Après presque 3 semaines sans aucune nouvelle de votre maitre, alors que vous partiez vous coucher, vous avez essayé d'établir une communication avec le miroir magique et à votre grand soulagement, Gnaag a fini par vous répondre.
-Enfin, il était temps ! Même si vous aviez tout fait pour rester impassible, un large sourir est venu fendre votre visage. Dès le début de la conversation, il vous demande les positions dont vous êtes sur afin d'adapter la position de ses armées. Ensuite gnaag vous informe qu'il va y avoir de nombreuses batailles à Torgar et il vous demande de le rejoindre une fois la victoire acquise. En effet, votre maitre a de nouveaux plans vous concernant et le temps est venu de dire adieu au pays qui vous a vu naitre pour une nouvelle opération d'infiltration. Il ne vous en direra pas plus. La silouhette de votre maitre disparait du miroir et vous partez dormir non sans vous poser de nombreuses questions sur  votre nouvel avenir. Vous repensez aussi à ce qui va se dérouler à Torgar et même si vous vouez un culte sans faille à votre maitre, vous êtes dubitatifs sur ses chances de victoires. Vous sentez qu'il ne vous a pas tout dit aussi votre nuit est ponctuée par de nombreux cauchemars mais vous n'y attachez pas plus d'importance à votre réveil.
+Derrière cette loyauté apparente se cache un secret inavouable : vous êtes en mission d’infiltration pour le compte du seigneur des ténèbres Gnaag de Mozgôar. Votre mission est de transmettre à Gnaag les moindres secrets militaires du royaume, tout en manipulant les intrigues de la cour à votre avantage. Grâce aux informations glanées à travers les conversations légères et les potins de la cour, vous avez déjà réussi à semer la discorde entre certains vassaux du roi, affaiblissant ainsi la cohésion des forces de Lencia. Vous avez exploité ces tensions pour informer les Drakkarim de failles dans les défenses, permettant ainsi à leurs armées de conquérir des territoires cruciaux sans éveiller les soupçons.
 
-Deux jours plus tard à Vadera, vous êtes conviée à une réunion de la plus haute importance en présence de nombreux seigneurs de guerre. Lors de celle-ci vous apprenez que le roi souhaite envoyer une partie de la garde impériale pour soutenir l'effort de guerre de vos alliers contre les forces du mal à Luomi puis Torgar. Pendant un bref instant, vous vous demandez si vous ne rêvez pas car l'opportunité de pouvoir partir rejoindre votre maitre vous ai servi comme sur un plateau d'argent ! Prudente, vous attendez patiemment d'en savoir plus.
-Les discussions vont bon train et commencent à partir tous azimut. Le roi est rapidement interpelé par Mérik Sagegarde, gouverneur de la ville de Westhaven qui est un important stratège : "Votre magesté, avec tout le respect que j'ai pour vous, je n'arrive pas à comprendre pourquoi nous envoyons une partie de nos troupes aussi loin dans le royaume d'Eru. Nous avons pourtant besoin de ces soldats pour récupérer nos terres et consolider nos défenses surtout autour de Helmstorm et Vark contre les drakkarims."
-Le roi lui répond : "Votre remarque est tout à fait pertinante Mérik. Je sais que vous n'avez par l'âme d'un expentionniste et ceci est tout à votre honneur. Cependant, notre salue tient à bien plus de choses que la simple défense de nos terres. Il est important de maintenir de bonnes relations avec nos alliers surtout dans le contexte actuel. Les armées de Gnaag et du Zakhan viennent de prendre une cuisante défaite, ne pas en profiter serait une grave erreur." Vous sentez que le roi ne dit pas tout et que ceci est un prétexte cachant d'autres desseins surtout que Gnaag vous demande de le rejoindre à Torgar ! Souhaitant couper court il rajoute : "je souhaite élaborer plusieurs stratégies et afin de prendre la meilleure option possible avec les informations dont nous disposons sur les emplacements des troupes ennemis. Sur place, j'aurai besoin que quelqu'un coordonne nos troupes afin qu'elles soient bien intégrées et efficaces. Il me faudrait 1 volontaire pour cette mission capitale.
-Voilà votre occasion. C'est le moment de saisir votre chance et ni une ni deux, vous proposez vos services au roi : "Votre excellence, je me porte volontaire pour cette mission".
-Tous les regards se tournent vers vous l'air surpris. Ce à quoi le roi vous répond : "Je suis fort honoré de vous voir si antousiaste cependant cette mission sera difficile et dangereuse".
-Vous vous redressez, déterminée : "J'en suis bien consciente mais j'ai fait le serments de protéger et de servir mon roi et notre royaume au prix de ma vie.  En tant qu'attachée militaire, c'est mon devoir de veiller à la coordination avec nos alliés. Ma connaissance des stratégies et des relations avec nos partenaires est essentielle pour mettre toutes les chances de notre coté. J'ai déjà terminé les préparatifs concernants les futures déploiements autour de Vark afin de contrer une potentielle persée drakkarim aussi je pense qu'Aldric n'aura que quelques ajustement de dernière minute à faire s'il y en a. Aussi, ai-je votre aval mon roi ?"
-Vous voyez Aldric se crisper en attendant la réponse du roi car il sait qu'il a de fortes chances que ça soit lui qui doive partir au front.
-Le roi vous observe longuement, son regard empli de réflexion. Tout le monde est suspendu à ses lèvres et après un soupir, il prend la parole, pesant soigneusement ses mots : "Votre détermination est indéniable... Mais...". Il hésite, comme s'il cherchait encore une autre voie, puis continue, la voix teintée de réticence : "Je ne peux ignorer la justesse de vos arguments. Vous avez mon aval… mais sachez que je le fais avec une grande réticence."
-Il marque une pause, puis, avec une gravité inhabituelle, ajoute : "Que Ishir veille sur vous tout au long de cette campagne. Revenez-nous saine et sauve."
-Vous vous inclinez profondément, reconnaissante : "Merci, Majesté. Je ne vous décevrai pas."
+Depuis la mort du Zakhan Kimah, le miroir magique par lequel vous communiquez avec Gnaag était resté silencieux, plongeant vos pensées dans l'incertitude. Ce soir, cependant, Gnaag réapparaît enfin, son visage insectoïde impassible dans la surface enchantée du miroir. Ses yeux multiples, semblables à des facettes de cristal noir, semblent vous sonder avec une intensité froide et inhumaine. Même à travers le miroir, vous imaginez l’odeur fétide qui doit émaner de sa bouche, une haleine viciée, propre à une créature des ténèbres.
 
-Dès la fin de la réunion, le roi vous enjoint de retrouver vos quartiers afin de préparer vos affaires puisque le départ se fait demain dès l'aube. En effet, 4 bateaux de transport de troupes mouillent au port et attendent l'ordre de lever les voiles pour Humbold. Ensuite les troupes devront continuer le chemin en direction de Foamfork puis Luomi. Pour finir, elles se rendront à Torgar pour l'ultime combat.
+« Torgar », siffle-t-il, ses mandibules claquant dans un son qui vous glace l'échine. Le nom de la forteresse Drakkarim résonne comme un glas funèbre dans le silence du miroir. « Les chiens de la Lencia vont s'y précipiter, ivres d'une gloire illusoire. Veillez à ce qu'ils répondent à l'appel. Qu'ils s'engouffrent dans la gueule du loup. » Un silence, puis son regard se fixe sur vous avec une intensité terrifiante. « Quant à vous, Maya, je vous attends à Torgar. Votre nouvelle mission vous y attend. »
+
+Ses mots, prononcés avec une voix qui semble vibrer d’une profondeur inconnue, résonnent en vous. Gnaag, toujours calculateur, ne laisse jamais rien au hasard. Vous sentez le poids de la mission s'alourdir sur vos épaules, mais vous y trouvez aussi une étrange satisfaction. Cette tâche, que votre maître vous confie personnellement après des semaines de silence, est une reconnaissance implicite de votre valeur à ses yeux. Il vous accorde sa confiance pour orchestrer ce massacre, preuve que vous êtes devenue une pièce maîtresse dans son jeu mortel.
+
+Flattée par cette confiance que Gnaag semble placer en vous, vous vous préparez à suivre ses instructions, convaincue que cette mission vous permettra de prouver une fois de plus votre loyauté et d'assurer la victoire de votre maître.
+
+Ce soir-là, après avoir parlé avec Gnaag, vous vous allongez, l’esprit légèrement troublé. Bien que vous soyez certaine de votre mission, vous ne pouvez vous empêcher de réfléchir à l'ampleur de l'opération qui se prépare. Vous chassez rapidement ces pensées, convaincue que le succès de cette opération est essentiel pour atteindre vos objectifs. Vous vous endormez finalement, votre esprit encore agité par les événements de la soirée.
+
+Dans vos rêves, des images de Torgar commencent à apparaître, mais elles sont floues, presque irréelles. Des silhouettes indistinctes se déplacent dans un paysage de guerre, et bien que vous perceviez une menace, elle reste voilée, lointaine. À votre réveil, vous repoussez ces visions comme des fragments sans importance, vous concentrant sur la tâche à accomplir.
 
 
+Une semaine plus tard, à Vadera, vous êtes conviée à une réunion de la plus haute importance en présence de nombreux seigneurs de guerre. Lors de celle-ci, vous apprenez que le roi souhaite envoyer une partie de la garde impériale pour soutenir l'effort de guerre de vos alliés contre les forces du mal à Luomi, puis à Torgar. Un éclair de triomphe jaillit dans votre poitrine. L'opportunité tant attendue se présente enfin, comme un don du destin ! Prudente, vous attendez patiemment d'en savoir plus.
+
+Les discussions s'intensifient, les seigneurs de guerre exposant leurs avis sur la stratégie proposée. Le roi est rapidement interpellé par Mérik Sagegarde, gouverneur de la ville de Westhaven, un stratège respecté pour son pragmatisme et son sens aigu de la défense territoriale.
+
+« Votre Majesté, avec tout le respect que je vous dois, je peine à comprendre pourquoi nous envoyons une partie de nos troupes aussi loin dans le royaume d'Eru. Nous avons besoin de ces soldats pour récupérer nos terres et consolider nos défenses, notamment autour de Helmstorm et Vark, contre les Drakkarim. »
+
+Le roi lui répond, avec un ton mesuré mais empreint d'une détermination palpable :
+
+« Votre remarque est tout à fait pertinente, Mérik. Cependant, notre salut ne dépend pas seulement de la défense de nos terres. Il est crucial de maintenir de bonnes relations avec nos alliés, surtout dans le contexte actuel. Les armées de Gnaag et du Zakhan viennent de subir une cuisante défaite ; ne pas en profiter serait une grave erreur. »
+
+Un murmure parcourt l'assemblée à cette déclaration. Certains seigneurs échangent des regards inquiets, d'autres semblent réfléchir intensément aux implications de ces paroles. Vous, cependant, restez attentive sans réagir, sachant que votre mission consiste à observer et à vous préparer à agir. Le roi Sarnac cache une stratégie plus complexe, mais pour le moment, vous ne pouvez qu'attendre de voir où tout cela mène.
+
+Mérik Sagegarde, toujours sceptique, poursuit avec une pointe de frustration :
+
+« Mais, Majesté, nos garnisons à Helmstorm et Vark ont également besoin de renforts pour garantir une sécurité optimale. Abandonner ces positions, même temporairement, pourrait affaiblir nos défenses internes. »
+
+Le roi Sarnac, d'un geste apaisant de la main, répond avec une autorité incontestable :
+
+« Helmstorm et Vark ne sont pas en danger immédiat. Nous renforcerons ces garnisons en temps voulu. Mais pour l'heure, l'importance de notre engagement aux côtés de nos alliés ne peut être sous-estimée. Nous devons nous assurer que les forces du mal ne se regroupent pas après leur défaite. »
+
+Un autre seigneur, plus jeune et moins expérimenté, prend timidement la parole, visiblement influencé par les propos de Mérik :
+
+« Votre Majesté, si je puis me permettre, cette mission me semble risquée. Peut-être devrions-nous envisager d'envoyer une force plus modeste ? »
+
+Le roi Sarnac, d'un regard sévère, fait taire toute hésitation :
+
+« La prudence est nécessaire, mais la peur ne doit pas guider nos décisions. Nous devons frapper fort et vite. Je souhaite élaborer plusieurs stratégies pour que nous puissions choisir la meilleure option possible, en fonction des informations dont nous disposons sur les emplacements des troupes ennemies. Sur place, j'aurai besoin que quelqu'un coordonne nos troupes afin qu'elles soient bien intégrées et efficaces. »
+
+Un silence inhabituel suit les paroles du roi. Autour de la table, les seigneurs de guerre échangent des regards pesants. Chacun mesure les risques d'une telle entreprise. Vous sentez grandir en vous une excitation mêlée d'appréhension. Cette mission périlleuse, vous le savez, est aussi une opportunité unique de servir votre véritable maître loin des regards indiscrets de la cour. Pourtant, une pointe d'inquiétude perce le voile de votre assurance. Les défis à venir seront nombreux, et la marge d'erreur sera mince.
+
+Si vous décidez de servir le roi Sarnac, en apparence, et de marcher vers la gloire ou la mort sur les champs de bataille de Luomi et de Torgar, rendez-vous au [2].
+
+Ou bien la prudence vous dictera-t-elle de rester à Vadera, au cœur du pouvoir, où d'autres opportunités s'offriront à vous ? Dans ce cas, rendez-vous au [10].
+
+[10]
+Le roi continue, la voix chargée de gravité : « Il n'y a vraiment personne pour cette mission ? ». Son regard, empli de déception, balaie la salle, cherchant un volontaire parmi les hommes en qui il avait placé ses espoirs. Mais le silence qui suit est assourdissant. Certains seigneurs détournent le regard, incapables de soutenir le regard inquisiteur du roi. D'autres serrent les poings, leurs mâchoires crispées trahissant leur malaise. Seul le bruit sourd d'une toux nerveuse vient briser le silence pesant.
+
+Après un moment qui semble s'étirer à l'infini, le roi, n'ayant toujours pas obtenu satisfaction, se résigne et demande solennellement à Aldric Voss de mener cette campagne à bien. Aldric, agrippé aux accoudoirs de son siège comme s'il s'agissait des rênes d'un cheval au galop, se redresse avec difficulté. Un conflit muet se lit sur son visage, tiraillé entre son devoir envers le roi et la terreur qui le glace à l'idée de ne plus jamais revoir sa femme et son enfant. « Très bien, votre Majesté », répond-il finalement, la voix posée mais le cœur lourd.
+
+Au terme de la réunion, les modalités de la mission sont définies. Aldric partira avec une troupe de 400 hommes pour rallier Humbold, puis, par voie terrestre, traverser Foamfork, Luomi, Cetza, et enfin Torgar. Il faudra trois jours pour charger complètement les navires de transport.
+
+Quant à vous, on vous assigne la mission que vous saviez déjà imminente : vous devez renforcer les défenses de Vark, une petite ville côtière qui attend quelques renforts suite à une récente incursion Drakkarim. C'était une tâche prévue depuis quelque temps, et c'est précisément pourquoi vous ne vous êtes pas manifestée pour la campagne de Torgar. Vous avez accepté votre mission avec la discipline attendue, mais l'idée de rejoindre Torgar vous hante depuis que la discussion sur la campagne a commencé.
+
+Vark... Le nom résonne étrangement à vos oreilles, mais une pensée fugitive traverse votre esprit, comme une étincelle dans l'obscurité. Oui, Vark. Un port stratégique. Un point de départ idéal pour un voyage discret vers le nord.
+
+Voyager seule comportera des risques, certes, mais c'est un choix calculé : vous pourrez ainsi éviter les grandes batailles et atteindre votre destination en toute discrétion. Une fois le gros des armées passé, Torgar sera à votre merci. Et vous seule déciderez du destin de ceux qui oseront se dresser sur votre route. Rendez-vous au [11]
+
+[2]
+Voilà votre occasion. C'est le moment de saisir votre chance. Sans hésitation, vous proposez vos services au roi : « Votre Majesté, » déclarez-vous d'une voix claire, « je me porte volontaire pour cette mission. »
+
+Tous les regards se tournent vers vous, surpris par votre audace. Le roi vous observe un instant, un froncement de sourcils se dessinant sous sa couronne : « Je suis fort honoré de vous voir si enthousiaste, mais j'avais initialement pensé confier cette mission à Aldric Voss. »
+
+Vous remarquez Aldric se raidir à l'entente de son nom, son visage se crispant sous sa barbe fournie. Il agrippe les accoudoirs de son siège comme s'il s'agissait des rênes d'un cheval au galop. L'idée de partir pour Torgar, laissant sa famille derrière lui, le terrifie visiblement.
+
+Vous intervenez avant que quiconque ne puisse répondre. « Majesté, Aldric vient de devenir père. Il serait plus sage qu’il reste ici pour veiller sur sa famille. Quant à moi, je n’ai aucune attache qui me retienne. Je suis prête à assumer cette mission et à servir notre royaume sur le front. »
+
+Le roi se frotte la barbe, son regard oscillant entre vous et Aldric. Le silence dans la salle est presque palpable. Après un soupir, il prend la parole, pesant soigneusement ses mots : « Votre détermination est indéniable... Mais... »
+
+Il marque une pause, puis, avec une gravité inhabituelle, ajoute : « Que Ishir veille sur vous tout au long de cette campagne. Revenez-nous saine et sauve. »
+
+Vous vous inclinez profondément, cachant difficilement un sourire satisfait. « Merci, Majesté. Je ne vous décevrai pas. »
+Lors de la réunion, les modalités de la mission sont définies. Vous partirez avec une troupe de 400 hommes pour rallier Humbold, puis, par voie terrestre, traverser Foamfork, Luomi, Cetza, et enfin Torgar. Il faudra trois jours pour charger complètement les navires de transport.
+
+À la fin de la réunion, alors que vous regagnez vos quartiers le regard déjà tourné vers l'horizon, Aldric vous rejoint en silence. Il attrape votre avant-bras, ses yeux cherchant les vôtres avec une gratitude évidente. « Comment te remercier ? » murmure-t-il, sa voix trahissant son soulagement.
+
+Vous prenez une courte inspiration, touchée par sa sincérité. « Tu n’as rien à me devoir, Aldric. Tu as une famille qui t’attend. Veille sur eux. Je m'occuperai de cette mission, tu peux en être certain. »
+En retirant subtilement votre main, vous laissez Aldric seul avec sa gratitude naïve. Un sourire satisfait effleure vos lèvres.
+Rendez-vous au [3]
+
+[3]
+Une fois dans vos quartiers, une excitation contenue vous envahit. Servir Gnaag est un honneur, et cette mission à Torgar est capitale. Vous prenez le temps de vous laver, tentant de calmer l'impatience qui gronde en vous. Vous savez que votre rôle dans ce plan est crucial, et chaque mouvement doit être calculé.
+
+Avant d'activer le miroir, vous prenez soin de vérifier que personne ne vous espionne. Vous inspectez minutieusement votre chambre : sous le lit, derrière les tapisseries, dans chaque recoin où un espion pourrait se cacher. Assurée qu'il n'y a personne, vous revenez et activez le miroir enchanté.
+
+La surface du miroir se trouble, et le visage insectoïde de Gnaag apparaît. Vous lui exposez rapidement les conclusions de la réunion. Il écoute en silence, ses yeux multifacettes impassibles, puis un rire grinçant s'échappe de ses mandibules. « Soyez toujours au centre de la colonne si vous tenez à votre vie », grésille-t-il.
+
+Vous comprenez immédiatement : être à l'avant ou à l'arrière, c'est s'exposer en première ligne, là où les attaques sont les plus mortelles.
+
+« Cessez toutes communications jusqu'à notre rencontre à Torgar », ajoute-t-il avant que son visage ne disparaisse, laissant place à votre propre reflet.
+
+Vous restez un instant à fixer le miroir, une détermination froide dans le regard. Rendez-vous au [4]
+
+[4]
+Ici il faut parler du fait qu'elle parte de Vadera avec les troupes sur le bateau __Faire la suite__
+
+
+[11]
+Une fois dans vos quartiers, une excitation contenue vous envahit. Servir Gnaag est un honneur, et cette mission à Torgar est capitale. Vous prenez le temps de vous laver, tentant de calmer l'impatience qui gronde en vous. Vous savez que votre rôle dans ce plan est crucial, et chaque mouvement doit être calculé.
+
+Avant d'activer le miroir, vous prenez soin de vérifier que personne ne vous espionne. Vous inspectez minutieusement votre chambre : sous le lit, derrière les tapisseries, dans chaque recoin où un espion pourrait se cacher. Assurée qu'il n'y a personne, vous revenez et activez le miroir enchanté.
+
+La surface du miroir se trouble, et le visage insectoïde de Gnaag apparaît. Vous lui exposez rapidement les conclusions de la réunion. Il écoute en silence, ses yeux multifacettes impassibles, puis un rire grinçant s'échappe de ses mandibules. « parfait. Voyagez de jour et portez une tunique verte », grésille-t-il.
+« Cessez toutes communications jusqu'à notre rencontre à Torgar », ajoute-t-il avant que son visage ne disparaisse, laissant place à votre propre reflet.
+
+Vous restez un instant à fixer le miroir, une détermination froide dans le regard. Rendez-vous au [12]
 
 
 
+Vous regarder les préparatifs … __Faire la suite__
 
-
-
-Aldric Voss
 
 
 
